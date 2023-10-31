@@ -67,3 +67,5 @@ Interpret the clusters:
 - Draw conclusions and insights
 - Summarize findings from the customer segmentation analysis.
 - Provide actionable recommendations for marketing strategies, product development, or customer retention efforts based on the identified segments.
+
+## Results
